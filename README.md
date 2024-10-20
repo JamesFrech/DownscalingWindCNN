@@ -1,5 +1,11 @@
 # Downscaling Satellite Imagery for High Resolution Offshore Winds.
 
+## Description
+This project seeks to downscale gridded satellite-based offshore winds to an NDBC buoy.
+Different methods of downscaling are compared including a convolutional neural network
+using tensorflow/keras, a random forest regressor, bilinear interpolation, and using the
+nearest grid point as a baseline. Results show the CNN outperforming the other models.
+
 ## Subdirectories
 
 #### Figures
