@@ -41,7 +41,7 @@ Corresponds to Figure 3 in the paper.
 #### plot_grid.py
 Plots the location of the buoy and gridded NBS product near the buoy. Figure 1 in the paper.
 
-####plot_test_results.py
+#### plot_test_results.py
 Plots out the bar charts for errors (Figure 6) and time series comparison of test
 set with predictions for all models (includes Figure 7). Figures that made it into
 the paper have different names than what is written in the file as they were changed
